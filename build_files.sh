@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Use the correct Python version
-python3 -m venv .venv
+python -m venv .venv
 
 # Activate the virtual environment
 source .venv/bin/activate
